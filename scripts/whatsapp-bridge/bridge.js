@@ -703,4 +703,4 @@ if (PAIR_ONLY) {
     console.log();
     startSocket();
   });
-}
+};
